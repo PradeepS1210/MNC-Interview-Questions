@@ -1,3 +1,16 @@
+/*Example 1:
+============
+Input: arr[] = {1,2,3,7,5}, n = 5, s = 12
+Output: 2 4
+Explanation: The sum of elements from 2nd to 4th position is 12.
+
+Example 2:
+============
+Input: arr[] = {1,2,3,4,5,6,7,8,9,10}, n = 10, s = 15,
+Output: 1 5
+Explanation: The sum of elements from 1st to 5th position is 15.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

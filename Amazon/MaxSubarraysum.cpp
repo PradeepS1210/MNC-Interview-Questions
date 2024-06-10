@@ -1,3 +1,16 @@
+/*Example 1:
+==============
+Input: arr[] = {1,2,3,-2,5}, n = 5
+Output: 9
+Explanation: Max subarray sum is 9 of elements (1, 2, 3, -2, 5) which is a contiguous subarray.
+
+Example 2:
+==============
+Input: arr[] = {5,4,7}, n = 3
+Output: 16
+Explanation: Max subarray sum is 16 of element (5, 4, 7)
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
