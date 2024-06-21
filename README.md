@@ -1,6 +1,6 @@
 # MNC Interview Questions, Data Structures, and Algorithms Problems
 
-Welcome to the MNC Interview Questions, Data Structures, and Algorithms Problems repository! This repository aims to compile solutions to technical interview questions from top Multi-National Corporations (MNCs), along with problems related to Data Structures and Algorithms. Whether you're preparing for an interview or looking to enhance your coding skills, this repository is here to assist you.
+Welcome to the MNC Interview Questions, Data Structures, and Algorithms Problems repository! This repository aims to compile solutions to technical interview questions from top Multi-National Companies (MNCs), along with problems related to Data Structures and Algorithms. Whether you're preparing for an interview or looking to enhance your coding skills, this repository is here to assist you.
 
 ## Purpose
 
