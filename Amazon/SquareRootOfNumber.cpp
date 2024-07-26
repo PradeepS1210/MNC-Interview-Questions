@@ -1,3 +1,10 @@
+/*
+Example:
+=========
+Input: Enter an integer: 5
+Output: Floor of the square root of 5 is 2
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
