@@ -1,15 +1,19 @@
 /*
 Example 1:
 ==========
+Input:
 Enter the wildcard pattern: ba*a?
 Enter the string: baaabab
-Pattern matches the string.
+
+Output: Pattern matches the string.
 
 Example 2:
 ==========
+Input:
 Enter the wildcard pattern: a*ab
 Enter the string: baaabab
-Pattern does not match the string.
+
+Output: Pattern does not match the string.
 */
 
 #include <bits/stdc++.h>
