@@ -7,7 +7,6 @@ Enter the elements of the array (0s, 1s, 2s): 0 2 1 2 0
 
 Output: Sorted array: 0 0 1 2 2
 Explanation: 0s 1s and 2s are segregated into ascending order.
-
 */
 
 #include <bits/stdc++.h>
